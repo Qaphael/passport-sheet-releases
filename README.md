@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/branding/icon-256.png" width="128" height="128" alt="Passport Sheet icon" />
+</p>
+
 # 🪪 Passport Sheet
 
 <p align="center">
