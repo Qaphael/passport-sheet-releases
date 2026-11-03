@@ -5,7 +5,7 @@
 # 🪪 Passport Sheet
 
 <p align="center">
-  <strong>Fast, print-ready passport and ID photo sheets — 100% offline, private, and precise.</strong>
+  <strong>Fast, print-ready passport and ID photo sheets — private, precise, and offline by default.</strong>
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 **Passport Sheet** is a modern desktop application that transforms ordinary portrait photos into print-ready sheets of compliant passport and ID photos in seconds.
 
-Whether printing on standard **4×6″ (10×15 cm) photo paper**, **5×7″**, or **A4**, Passport Sheet handles exact millimetre geometry, auto-alignment, AI-powered background replacement, and smart multi-person packing — completely offline on your own computer.
+Whether printing on standard **4×6″ (10×15 cm) photo paper**, **5×7″**, or **A4**, Passport Sheet handles exact millimetre geometry, auto-alignment, AI-powered background replacement, and smart multi-person packing on your own computer. A missing background model can be downloaded on request during setup; updates are checked only when enabled.
 
 ---
 
